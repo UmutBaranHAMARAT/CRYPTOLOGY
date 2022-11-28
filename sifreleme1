@@ -19,7 +19,7 @@ def sifreyiCoz(s,kural):
         metin = metin+alfabe[n]
     return metin
 
-s = input("Bir metin giriniz : ")
+s = input("Küçük harflerle bir metin giriniz : ")
 alfabe = "abcçdefgğhıijklmnoöprsştuüvyz"
 alfabe2 = alfabe
 kural = ""
